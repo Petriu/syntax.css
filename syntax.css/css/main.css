@@ -1,3 +1,13 @@
-#main-content > p{
-    color:red;
+span[class~="deck"]{
+ 
+    color:purple;
+
+}
+
+div[id] {
+background:grey;
+}
+
+a[href^="htpp"]{
+    color: green;
 }
