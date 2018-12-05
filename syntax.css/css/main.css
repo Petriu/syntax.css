@@ -1,13 +1,9 @@
-span[class~="deck"]{
- 
-    color:purple;
+a:hover{
+
+    color: red; 
+
 
 }
-
-div[id] {
-background:grey;
-}
-
-a[href^="htpp"]{
-    color: green;
+#main-content:hover{
+    background: red;
 }
